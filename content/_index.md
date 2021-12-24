@@ -4,7 +4,7 @@ title = "Anh-Vu"
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="avatar.jpg" alt="avatar">}}
 
 I am a Master's student in Data Science at [Columbia](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) University (end Dec 2022) that is also pursing a MSc in Engineering (Diplôme d’ingénieur) at [Telecom Paris](https://www.telecom-paris.fr/en/home).
 
