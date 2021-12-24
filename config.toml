@@ -1,3 +1,4 @@
+baseURL ="https://anhvung.github.io/me/"
 title = "Anh-Vu Nguyen"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]

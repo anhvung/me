@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extras on Anh-Vu Nguyen</title>
-    <link>/extra/</link>
+    <link>https://anhvung.github.io/me/extra/</link>
     <description>Recent content in Extras on Anh-Vu Nguyen</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/extra/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://anhvung.github.io/me/extra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography</title>
-      <link>/extra/photography/</link>
+      <link>https://anhvung.github.io/me/extra/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/extra/photography/</guid>
+      <guid>https://anhvung.github.io/me/extra/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>/extra/videos/</link>
+      <link>https://anhvung.github.io/me/extra/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/extra/videos/</guid>
+      <guid>https://anhvung.github.io/me/extra/videos/</guid>
       <description>Gala 2020 - Telecom Paris Student council campaign - Telecom Paris </description>
     </item>
     
