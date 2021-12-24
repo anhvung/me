@@ -1,3 +1,4 @@
+<!---
 +++
 title = "About"
 +++
@@ -58,3 +59,4 @@ def is_elementary():
 
 [^1]: This is the first footnote.
 [^2]: This is the second footnote.
+-->

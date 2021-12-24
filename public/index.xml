@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anh-Vu on Anh-Vu Nguyen</title>
+    <link>/</link>
+    <description>Recent content in Anh-Vu on Anh-Vu Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>/extra/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/extra/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/activities/</guid>
+      <description>Photography Mainly street photography.
+Gear: Fuji XT-30, Fuji 15-45mm kit lens, Fuji 23mm f2, TTArtisan 35mm f1.4, Minolta SRT-101b, Rokkor MC 50mm f2, Soligor 135mm f2.8
+Music Music composition and production using Reaper.
+Videography Film-making for Telecom Paris student events</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects   Squeeze-and-excitation Networks: TensorFlow implementation of Squeeze-and-excitation blocks on different convolutional neural networks such as ResNet-18, ResNeXt-29 and InceptionV3 using CIFAR-10, CIFAR-100 and Tiny ImageNet. [Report].
+  Image classification using merged CNNs - Kaggle challenge: a use of two merged pre-trained convolutional neural networks (ResNet-50V2 and InceptionV3) to get a top score in a bottle classification Kaggle challenge. The model predicts how much water or soda a bottle contains.</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>/extra/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/extra/videos/</guid>
+      <description>Gala 2020 - Telecom Paris Student council campaign - Telecom Paris </description>
+    </item>
+    
+  </channel>
+</rss>
